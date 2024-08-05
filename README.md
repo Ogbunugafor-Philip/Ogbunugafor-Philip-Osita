@@ -1,9 +1,8 @@
 # Hello, I'm Philip
+
 <a href="https://www.linkedin.com/in/philip-osita-ogbunugafor-547719318"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a detail-driven and analytical Security Operations Center Analyst. With a strong foundation and hands on practice on networking fundamentals, Intrusion Detection and Prevention System, Security Incident and Event Management and security technologies, I excel in identifying and mitigating potential security risks, there by ensuring 100% security of Company assets and data.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
