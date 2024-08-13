@@ -1,25 +1,44 @@
 # Hello, I'm Philip
 
-<a href="https://www.linkedin.com/in/philip-osita-ogbunugafor-547719318"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/philip-osita-ogbunugafor-547719318"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-I am a detail-driven and analytical Security Operations Center Analyst. With a strong foundation and hands on practice on networking fundamentals, Intrusion Detection and Prevention System, Security Incident and Event Management and security technologies, I excel in identifying and mitigating potential security risks, there by ensuring 100% security of Company assets and data.
+I am a detail-driven and analytical Security Operations Center Analyst with a strong foundation and hands on practice on Intrusion Detection and Prevention System, Network Traffic Analysis, Security Incident and Event Management, End Point Detection and Response and Security Orchestration, Automation and Response. I excel in identifying and mitigating potential security risks, there by ensuring 100% security of Company assets and data.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As a Security Operation Center Analyst, my objectives are; 
+* To focus on improving the security posture of your organization there by enhancing Customer's trust and brand reputation;
+* To enhance threat detection and response capabilities so as to avoid financial losses from cyber incidents;
+* To improve operational efficiency by implementing security automation tools which reduces manual effort and lower operational costs;
+* To periodically conduct a return-on-investment (ROI) analysis for cybersecurity initiatives to justify expenditures by highlighting the value of avoided losses and operational efficiencies.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+Below are my skills and project associated to them;
+
+| Skill                                            | Associated Project         |
+|--------------------------------------------------|-----------------------------------------------|
+| Intrution Detection/Prevention System (IDS/IPS)  | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Analysis                         | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR            | SOC Automation Lab|
+| Incident Response Planning and Execution         | SOC Automation Lab|
+| Case Management with TheHive                     | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation   | SOC Automation Lab|
+
+## Soft Skills
+
+* Communication Skill (Verbal Communication, Written Communication and Active Listening)
+* Teamwork and Collaboration
+* Cultural awareness
+* Leadership and Management
+* Emotional Intelligence
+* Problem Solving
+* Adaptability and Flexibility
+
+
+
+
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
