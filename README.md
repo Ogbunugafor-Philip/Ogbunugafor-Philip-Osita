@@ -16,14 +16,17 @@ As a Security Operation Center Analyst, my objectives are;
 
 Below are my skills and project associated to them;
 
-| Skill                                            | Associated Project         |
-|--------------------------------------------------|-----------------------------------------------|
-| Intrution Detection/Prevention System (IDS/IPS)  | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Analysis                         | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR            | SOC Automation Lab|
-| Incident Response Planning and Execution         | SOC Automation Lab|
-| Case Management with TheHive                     | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation   | SOC Automation Lab|
+|                          Skill                             |                Associated Project                     |
+|------------------------------------------------------------|-------------------------------------------------------|
+| Intrution Detection/Prevention System (IDS/IPS) with Snort | <a href="https://google.com">Detection Lab</a>        |
+| Network Traffic Analysis with Wireshark                    | <a href="https://google.com">Detection Lab</a>        |
+| Security Automation Orchestration and Response with Wazuh  | SOC Automation Lab                                    |
+| Security Incident and Event Management with Splunk         | SOC Automation Lab                                    |
+| HoneyPot Creation                                          | SOC Automation Lab                                    |
+| Email Message analysis with Phishtool                      | SOC Automation Lab                                    |
+| Digital Forensic Investigation with Autopsy                | SOC Automation Lab                                    |
+| Incident Response with TheHive Project                     | SOC Automation Lab                                    |
+
 
 ## Soft Skills
 
