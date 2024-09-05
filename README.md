@@ -45,14 +45,14 @@ Below are my skills and project associated to them;
 
 ## Tools
 
-### Network
+### Network Security
 * Wireshark
 * Snort
 
-### Endpoint
+### Endpoint Detection and Response (EDR)
 * Wazuh
 
-### SIEM
+### Security Incident and Event Management (SIEM)
 * Splunk
 
 ### Security Orchestration, Automation, and Response (SOAR)
@@ -63,7 +63,7 @@ Below are my skills and project associated to them;
 * Phishtool
 
 ### Digital Forensic
-* Splunk
+* Autopsy
 
 ### Incident Response
 * TheHive Project
