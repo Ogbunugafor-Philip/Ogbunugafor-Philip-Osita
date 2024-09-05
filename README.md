@@ -20,13 +20,13 @@ Below are my skills and project associated to them;
 |--------------------------------------------------|------------------------------------------------|
 | Intrution Detection/Prevention System (IDS/IPS)  | <a href="https://google.com">Detection Lab</a> |
 | Network Traffic Analysis                         | <a href="https://docs.google.com/presentation/d/1PYNImKchFDdAMRzhICPJgDHEY90RntKk/edit?usp=sharing&ouid=116655357902679387992&rtpof=true&sd=true">Network Analysis with Wireshark</a> |
-| Security Orchestration, Automation and Response  | SOC Automation Lab                             |
-| Security Incident and Event Management           | SOC Automation Lab                             |
-| HoneyPot Creation                                | SOC Automation Lab                             |
-| Email Message analysis                           | SOC Automation Lab                             |
-| Digital Forensic Investigation                   | SOC Automation Lab                             |
-| Incident Response                                | SOC Automation Lab                             |
-
+| Security Orchestration, Automation and Response  | <a href="https://google.com">Detection Lab</a>                            |
+| Security Incident and Event Management           | <a href="https://google.com">Detection Lab</a>                            |
+| HoneyPot Creation                                | <a href="https://google.com">Detection Lab</a>                            |
+| Email Message analysis                           | <a href="https://google.com">Detection Lab</a>                            |
+| Digital Forensic Investigation                   | <a href="https://google.com">Detection Lab</a>                             |
+| Incident Response                                | <a href="https://google.com">Detection Lab</a>                             |
+| Endpoint Detection and Response                  | <a href="https://google.com">Detection Lab</a>                             |
 
 ## Soft Skills
 
@@ -54,6 +54,10 @@ Below are my skills and project associated to them;
 
 ### SIEM
 * Splunk
+
+### Security Orchestration, Automation, and Response (SOAR)
+* LimaCharlie
+* Tines
 
 ### Email Analysis
 * Phishtool
