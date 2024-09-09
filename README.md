@@ -26,7 +26,7 @@ Below are my skills and project associated to them;
 | Email Message analysis                           | <a href="https://google.com">Detection Lab</a>                            |
 | Digital Forensic Investigation                   | <a href="https://google.com">Detection Lab</a>                             |
 | Incident Response                                | <a href="https://google.com">Detection Lab</a>                             |
-| Endpoint Detection and Response                  | <a href="https://google.com">Detection Lab</a>                             |
+| Endpoint Detection and Response                  | <a href="https://docs.google.com/presentation/d/1r98-HzTkSST9yGruFR2rkaOSrxoSx5_4/edit?usp=sharing&ouid=116655357902679387992&rtpof=true&sd=true">EDR with Wazuh</a>                             |
 
 ## Soft Skills
 
