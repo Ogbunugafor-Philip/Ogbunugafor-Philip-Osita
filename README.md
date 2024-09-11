@@ -19,7 +19,7 @@ Below are my skills and project associated to them;
 |                      Skill                       |            Associated Project                  |
 |--------------------------------------------------|------------------------------------------------|
 | Intrution Detection/Prevention System (IDS/IPS)  | <a href="https://google.com">Detection Lab</a> |
-| Network Traffic Analysis                         | <a href="">Network Analysis with Wireshark</a> |
+| Network Traffic Analysis                         | <a href="https://docs.google.com/presentation/d/1wcavu8l9cXuOllASWnMYwFep2qWGKPZo/edit?usp=sharing&ouid=116655357902679387992&rtpof=true&sd=true">Network Analysis with Wireshark</a> |
 | Security Orchestration, Automation and Response  | <a href="https://google.com">Detection Lab</a>                            |
 | Security Incident and Event Management           | <a href="https://google.com">Detection Lab</a>                            |
 | HoneyPot Creation                                | <a href="https://google.com">Detection Lab</a>                            |
